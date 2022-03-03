@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "EXE",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Character",
+						"1",
+						"NEXE"
+					]
+				]
+			],
+			[
+				42666.6666666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"EXE"
+					]
+				]
+			],
+			[
+				44215.0537634409,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic"
+					]
+				]
+			],
+			[
+				45473.1182795699,
+				[
+					[
+						"Change Character",
+						"1",
+						"EXE"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 135,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "bopeebo"
+	}
+}
